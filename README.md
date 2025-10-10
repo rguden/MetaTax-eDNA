@@ -1,4 +1,4 @@
-# MetaTax-DNA
+# MetaTax-eDNA
 **Author:** Rodgee Mae Guden  
 **Marine Biology Research Group, Ghent University**  
 **Contact:** rodgeemae.guden@ugent.be  
