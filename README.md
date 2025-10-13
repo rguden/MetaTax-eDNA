@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-**MetaTax-DNA** is a modular Bash workflow for metagenomic DNA sequencing analysis, integrating quality control, read trimming, taxonomic classification, and downstream summary and OTU table generation for Bacteria, Archaea, and Nematoda.  
+**MetaTax-eDNA** is a modular Bash workflow for metagenomic DNA sequencing analysis, integrating quality control, read trimming, taxonomic classification, and downstream summary and OTU table generation for Bacteria, Archaea, and Nematoda.  
 
 This pipeline is designed for metagenomic datasets derived from complex benthic or environmental communities, enabling high-throughput taxonomic profiling through **Kraken2** and streamlined post-processing for domain-specific community summaries and abundance tables suitable for downstream ecological and functional analyses.
 
